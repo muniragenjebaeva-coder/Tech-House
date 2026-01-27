@@ -95,23 +95,23 @@
         }
 
         const productsData = {
-            1: { name: 'Freshly Baked Mixer 2,000W', price: 259, category: 'Kitchen Appliances', rating: 5, reviews: 48, image: 'https://images.unsplash.com/photo-1594385200330-b73b2fc3ca84?auto=format&fit=crop&q=80&w=400' },
-            2: { name: 'SmartChef Multi-Oven Dash 400W', price: 149, category: 'Kitchen Appliances', rating: 4, reviews: 32, image: 'https://images.unsplash.com/photo-1527335448673-41a058bd0509?auto=format&fit=crop&q=80&w=400' },
-            3: { name: 'PowerBlend Pro Blender', price: 110, category: 'Kitchen Appliances', rating: 5, reviews: 56, image: 'https://images.unsplash.com/photo-1570222037471-9bb0c3f09dd3?auto=format&fit=crop&q=80&w=400' },
-            4: { name: 'MultiCook Digital Oven', price: 459, category: 'Kitchen Appliances', rating: 5, reviews: 42, image: 'https://images.unsplash.com/photo-1544233726-9f1d2b27be8b?auto=format&fit=crop&q=80&w=400' },
-            5: { name: 'MultiClean Vacuum Cleaner', price: 149, category: 'Cleaning Appliances', rating: 4, reviews: 28, image: 'https://images.unsplash.com/photo-1558317374-067fb5f30001?auto=format&fit=crop&q=80&w=400' },
-            6: { name: 'SteamPro Anti-Bacterial Cleaner', price: 179, category: 'Cleaning Appliances', rating: 5, reviews: 35, image: 'https://images.unsplash.com/photo-1527515637462-cff94eecc1ac?auto=format&fit=crop&q=80&w=400' },
-            7: { name: 'PureVac Series Robot Vacuum', price: 209, category: 'Cleaning Appliances', rating: 5, reviews: 64, image: 'https://images.unsplash.com/photo-1518640467707-6811f4a6ab73?auto=format&fit=crop&q=80&w=400' },
-            8: { name: 'EcoStay Steam Iron 200W', price: 125, category: 'Laundry & Cooling', rating: 4, reviews: 19, image: 'https://images.unsplash.com/photo-1517677208171-0bc6725a3e60?auto=format&fit=crop&q=80&w=400' },
-            9: { name: 'CoolBreeze Tower Fan', price: 89, category: 'Laundry & Cooling', rating: 4, reviews: 45, image: 'https://images.unsplash.com/photo-1591147139225-856bb2a7e74d?auto=format&fit=crop&q=80&w=400' },
-            10: { name: 'ArcticPro Air Conditioner 12,000 BTU', price: 549, category: 'Laundry & Cooling', rating: 5, reviews: 72, image: 'https://images.unsplash.com/photo-1631541909061-71e349d1f203?auto=format&fit=crop&q=80&w=400' },
-            11: { name: 'SuperDry Hair Dryer 1,500W', price: 79, category: 'Personal Care', rating: 4, reviews: 23, image: 'https://images.unsplash.com/photo-1522338242992-e1a54906a8da?auto=format&fit=crop&q=80&w=400' },
-            12: { name: 'Precision Electric Trimmer', price: 59, category: 'Personal Care', rating: 4, reviews: 15, image: 'https://images.unsplash.com/photo-1621607512214-68297480165e?auto=format&fit=crop&q=80&w=400' },
-            13: { name: 'SilkSmooth Electric Shaver', price: 129, category: 'Personal Care', rating: 4, reviews: 31, image: 'https://images.unsplash.com/photo-1619914771257-238515059632?auto=format&fit=crop&q=80&w=400' },
-            14: { name: 'SmartHub Voice Assistant', price: 149, category: 'Smart Home', rating: 5, reviews: 88, image: 'https://images.unsplash.com/photo-1543512214-318c7553f230?auto=format&fit=crop&q=80&w=400' },
-            15: { name: 'SmartBulb Color Zone 3-pack', price: 79, category: 'Smart Home', rating: 5, reviews: 52, image: 'https://images.unsplash.com/photo-1550524514-963ddec33621?auto=format&fit=crop&q=80&w=400' },
-            16: { name: 'GuardView Smart Camera', price: 129, category: 'Smart Home', rating: 5, reviews: 41, image: 'https://images.unsplash.com/photo-1557324232-b8917d3c3dcb?auto=format&fit=crop&q=80&w=400' },
-            17: { name: 'ThermoSmart WiFi Thermostat', price: 229, category: 'Smart Home', rating: 5, reviews: 37, image: 'https://images.unsplash.com/photo-1567016376408-0226e4d0c1ea?auto=format&fit=crop&q=80&w=400' }
+            1: { name: 'Freshly Baked Mixer 2,000W', price: 259, category: 'Kitchen Appliances', rating: 5, reviews: 48, image: 'https://i.pinimg.com/1200x/d2/81/cf/d281cf0b8f443857c016cc99b5ae3d89.jpg' },
+            2: { name: 'SmartChef Multi-Oven Dash 400W', price: 149, category: 'Kitchen Appliances', rating: 4, reviews: 32, image: 'https://i.pinimg.com/1200x/fd/ed/6e/fded6e193a47892ad484b26c17adfab9.jpg' },
+            3: { name: 'PowerBlend Pro Blender', price: 110, category: 'Kitchen Appliances', rating: 5, reviews: 56, image: 'https://i.pinimg.com/1200x/b8/8b/bc/b88bbc2beb117c20d609679f69bfd0f1.jpg' },
+            4: { name: 'MultiCook Digital Oven', price: 459, category: 'Kitchen Appliances', rating: 5, reviews: 42, image: 'https://i.pinimg.com/736x/a7/46/60/a74660bce00d0362e4b9e46bddd2c97c.jpg' },
+            5: { name: 'MultiClean Vacuum Cleaner', price: 149, category: 'Cleaning Appliances', rating: 4, reviews: 28, image: 'https://i.pinimg.com/736x/65/61/c6/6561c616d7da9858359808b283afc39e.jpg' },
+            6: { name: 'SteamPro Anti-Bacterial Cleaner', price: 179, category: 'Cleaning Appliances', rating: 5, reviews: 35, image: 'https://i.pinimg.com/1200x/de/ff/9a/deff9a487eda165b17748620acfadd41.jpg' },
+            7: { name: 'PureVac Series Robot Vacuum', price: 209, category: 'Cleaning Appliances', rating: 5, reviews: 64, image: 'https://i.pinimg.com/1200x/c8/c4/33/c8c433247518603236856f3ac6621789.jpg' },
+            8: { name: 'EcoStay Steam Iron 200W', price: 125, category: 'Laundry & Cooling', rating: 4, reviews: 19, image: 'https://i.pinimg.com/1200x/86/94/62/8694627bb43bcd802acb7f262bf3deb2.jpg' },
+            9: { name: 'CoolBreeze Tower Fan', price: 89, category: 'Laundry & Cooling', rating: 4, reviews: 45, image: 'https://i.pinimg.com/736x/d9/fe/b4/d9feb4ac29f74bbcbbf6f28c7beadd42.jpg' },
+            10: { name: 'ArcticPro Air Conditioner 12,000 BTU', price: 549, category: 'Laundry & Cooling', rating: 5, reviews: 72, image: 'https://i.pinimg.com/1200x/f8/91/09/f89109f80845a454ac6c7325edc485cd.jpg' },
+            11: { name: 'SuperDry Hair Dryer 1,500W', price: 79, category: 'Personal Care', rating: 4, reviews: 23, image: 'https://i.pinimg.com/736x/59/cb/94/59cb942b51dfe678802225fcbf00dd24.jpg' },
+            12: { name: 'Precision Electric Trimmer', price: 59, category: 'Personal Care', rating: 4, reviews: 15, image: 'https://i.pinimg.com/1200x/45/64/6d/45646dc4033f1d06606e8eabea27437b.jpg' },
+            13: { name: 'SilkSmooth Electric Shaver', price: 129, category: 'Personal Care', rating: 4, reviews: 31, image: 'https://i.pinimg.com/736x/a5/73/e4/a573e46d9e7a1a87c8d21e3521696011.jpg' },
+            14: { name: 'SmartHub Voice Assistant', price: 149, category: 'Smart Home', rating: 5, reviews: 88, image: 'https://i.pinimg.com/1200x/f3/53/c0/f353c0db59ba937596c576988926bbef.jpg' },
+            15: { name: 'SmartBulb Color Zone 3-pack', price: 79, category: 'Smart Home', rating: 5, reviews: 52, image: 'https://i.pinimg.com/1200x/5a/b9/bc/5ab9bc68ca6f6852efbfd63143b7dac1.jpg' },
+            16: { name: 'GuardView Smart Camera', price: 129, category: 'Smart Home', rating: 5, reviews: 41, image: 'https://i.pinimg.com/736x/af/f6/80/aff6800be752f3fa0c3132e1b9d122ca.jpg' },
+            17: { name: 'ThermoSmart WiFi Thermostat', price: 229, category: 'Smart Home', rating: 5, reviews: 37, image: 'https://i.pinimg.com/736x/d2/81/b0/d281b0d35d9311dd3579797d87605081.jpg' }
         };
 
         let currentCategory = 'All Products';
